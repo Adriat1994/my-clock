@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Proyecto reloj con React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Creación de un reloj en tiempo real, una cuenta atrás con fecha especificada y un cronómetro
 
   ## Descripción
 Primer proyecto de React para tomar un poco de contacto. Elaboramos un CV a partir de nuestros datos. 
@@ -12,7 +12,7 @@ Para iniciar el proyecto ejecutar el comando:
   - npm run dev
 
   ## URL para ver el resultado
-Para ver el proyecto en directo puedes verlo aquí (https://proyecto-cv-adrian-torres.netlify.app/)
+Para ver el proyecto en directo puedes verlo aquí ()
 
 
   ## Autor ✒️
