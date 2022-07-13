@@ -15,7 +15,7 @@ Para iniciar el proyecto ejecutar el comando:
   - npm run dev
 
   ## URL para ver el resultado
-Para ver el proyecto en directo puedes verlo aquí ()
+Para ver el proyecto en directo puedes verlo aquí (https://reloj-countdown-cronometro-ats.netlify.app/)
 
 
   ## Autor ✒️
