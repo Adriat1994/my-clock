@@ -3,8 +3,11 @@
 Creación de un reloj en tiempo real, una cuenta atrás con fecha especificada y un cronómetro
 
   ## Descripción
-Primer proyecto de React para tomar un poco de contacto. Elaboramos un CV a partir de nuestros datos. 
-Utilizamos un useState para manejar el estado y mostrar de forma separada nuestra experiencia o nuestros estudios, haciendo que nuestro CV sea un poco más visual.
+Proyecto de React en el cual creamos 3 funcionalidades:
+ - Un reloj en tiempo real
+ - Un contador que descuenta tiempo hasta una fecha establecida
+ - un cronometro que podemos iniciar, pausar, continuar o resetear
+El proyecto funciona gracias al uso de useState, manejando el estado podemos variar como se muestran los componentes para mostrar los cambios
 
 Después de clonar el proyecto, ejecutar el siguiente comando para instalar las dependencias:
  - npm install
